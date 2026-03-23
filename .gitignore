@@ -53,3 +53,5 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 /.vs
+/Wargame.sln/.vs
+/Wargame.sln/Wargame.sln
